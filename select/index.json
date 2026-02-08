@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏が僕らを呼ぶのなら(2025 Ver.)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-08T15:48:27.353263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏が僕らを呼ぶのなら - 2025 Ver.",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_夏が僕らを呼ぶのなら_-_2025_Ver._Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏が僕らを呼ぶのなら (2025 Ver.)",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_夏が僕らを呼ぶのなら_(2025_Ver.)_Luna_feat._ねんね.txt"
+    }
+  ]
+}
